@@ -1,8 +1,10 @@
 ## Hello there 👋
 
-- 🌱 I enjoy working with Python, JavaScript, and Java, but I'm always eager to learn the right tool for the job. Since learning how to program in non-tech roles, I have always enjoyed making automations to help out with my team's tasks. Having already done projects using the MERN stack, my current focus is on developing a full-stack web app using the PERN tech stack.
+- 🌱 I enjoy working with Python, JavaScript, and Java, but I'm always eager to learn the right tool for the job. Since learning how to program in non-tech roles, I have always enjoyed making automations to help out with my team's tasks.
 
-- 🔭 I am currently seeking an entry-level role in software development, software engineering, or web development. If you would like to discuss my qualifications further and explore how I can contribute to your team, then feel free to reach out!
+- 👨🏻‍💻 Having already done projects using the MERN stack, my current focus is on developing a full-stack web app using the PERN tech stack.
+
+- 💬 I am currently seeking an entry-level role in software development, software engineering, or web development. If you would like to discuss my qualifications further and explore how I can contribute to your team, then feel free to reach out!
 
 <!--
 **Adrian-bit65/Adrian-bit65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
